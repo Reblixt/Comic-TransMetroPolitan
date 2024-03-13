@@ -5,14 +5,13 @@ export const Tdata = {
       age: 56,
       funFact: [
         {
-          one: "Elliss work has influenced a wide array of creators, not just in comics but in literature, film, and television as well. His unique blend of speculative fiction, cultural commentary, and complex characters has left a mark on storytelling.",
+          line: "Elliss work has influenced a wide array of creators, not just in comics but in literature, film, and television as well. His unique blend of speculative fiction, cultural commentary, and complex characters has left a mark on storytelling.",
         },
         {
-          two: "Warren Ellis has a deep appreciation for music, often sharing his playlists and musical inspirations with his readers. He is also dabbled in music composition, contributing to the ambiance of his narratives.",
+          line: "Warren Ellis has a deep appreciation for music, often sharing his playlists and musical inspirations with his readers. He is also dabbled in music composition, contributing to the ambiance of his narratives.",
         },
         {
-          three:
-            "Ellis has been an early adopter and advocate of using the internet and social media to communicate with fans. He has maintained various blogs and online platforms over the years, where he shares insights into his writing process, upcoming projects, and his views on technology and society.",
+          line: "Ellis has been an early adopter and advocate of using the internet and social media to communicate with fans. He has maintained various blogs and online platforms over the years, where he shares insights into his writing process, upcoming projects, and his views on technology and society.",
         },
       ],
     },
@@ -21,14 +20,13 @@ export const Tdata = {
       age: "unknown",
       funFact: [
         {
-          one: "Robertson is largely self-taught, having developed his skills through practice and a deep love for comic books. His passion for drawing and storytelling was evident from a young age, and he has honed his craft over years of dedication.",
+          line: "Robertson is largely self-taught, having developed his skills through practice and a deep love for comic books. His passion for drawing and storytelling was evident from a young age, and he has honed his craft over years of dedication.",
         },
         {
-          two: "He began his professional comic book career at a young age, breaking into the industry in his late teens. This early start allowed him to establish a substantial body of work and gain experience working with a variety of publishers.",
+          line: "He began his professional comic book career at a young age, breaking into the industry in his late teens. This early start allowed him to establish a substantial body of work and gain experience working with a variety of publishers.",
         },
         {
-          three:
-            'Alongside writer Garth Ennis, Robertson co-created "The Boys," a critically acclaimed and controversial comic series that satirizes the superhero genre. The series has been praised for its gritty storytelling and detailed art, and it was adapted into a successful Amazon Prime TV series.',
+          line: 'Alongside writer Garth Ennis, Robertson co-created "The Boys," a critically acclaimed and controversial comic series that satirizes the superhero genre. The series has been praised for its gritty storytelling and detailed art, and it was adapted into a successful Amazon Prime TV series.',
         },
       ],
     },
