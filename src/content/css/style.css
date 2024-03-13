@@ -11,7 +11,6 @@ body {
     position: fixed;
     top: 0;
     color: white;
-    /* width: 100vw; */
 
 }
 
@@ -29,4 +28,13 @@ body {
 
 li {
     list-style-type: none;
+    cursor: pointer;
+}
+
+.oldTitles {
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }
