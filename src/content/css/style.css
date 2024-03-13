@@ -1,32 +1,45 @@
 body {
-    background-image: url('src/assets/wallpaperflare.com_wallpaper.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+  background-image: url('src/assets/wallpaperflare.com_wallpaper.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-
 .wrapper {
-    display: flex;
-    position: fixed;
-    top: 0;
-    color: white;
-    /* width: 100vw; */
-
+  display: flex;
+  position: fixed;
+  top: 0;
+  color: white;
+  /* width: 100vw; */
 }
 
 .header {
-    display: flex;
-    /* justify-content: space-evenly; */
-
+  display: flex;
+  /* justify-content: space-evenly; */
 }
 
 .authors {
-    display: flex;
-    gap: 10px;
-    /* justify-content: space-between; */
+  display: flex;
+  gap: 10px;
+  /* justify-content: space-between; */
 }
 
 li {
-    list-style-type: none;
+  list-style-type: none;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.infoBox {
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 10px;
 }
